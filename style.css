@@ -1,0 +1,675 @@
+.sec1 {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Banner-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+}
+
+.logo h1 a {
+    font-size: 36px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: rgb(3, 3, 3) 0px 2px 5px;
+    transition: all 0.7s ease;
+}
+
+.logo h1 a span {
+    color: #ff9000;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 105px;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9;
+}
+
+.hdr {
+    margin: auto;
+    max-width: 1100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+
+}
+
+
+.menu li a {
+    padding: 42px 41px 36px 41px;
+    color: white;
+    font-size: 15px;
+    display: block;
+    text-decoration: none;
+
+}
+
+.left-1 h1 span {
+    color: #ff9000;
+}
+
+.left-1 h1 {
+    font-size: 36px;
+}
+
+.left-1 {
+    padding: 92px 0px 0px 0px;
+    width: 28.90%;
+    position: absolute;
+    left: 100px;
+    top: 175px;
+
+}
+
+.middle-sec1 {
+    position: relative;
+    width: 100%;
+
+}
+
+.right-1 {
+    position: relative;
+}
+
+.right-1 img {
+    position: absolute;
+    right: 106px;
+    top: 256px;
+}
+
+.onpic {
+    position: relative;
+    background-color: #000000ba;
+    position: absolute;
+    top: 624px;
+    left: 477px;
+    width: 750px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons {
+    position: absolute;
+    left: 22px;
+    top: 21px;
+}
+
+.pic-text {
+    position: absolute;
+    right: 55px;
+    color: white;
+    text-align: end;
+}
+
+.icons button {
+    border-radius: 50%;
+    background: none;
+    color: white;
+    border: 1px solid #fff;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px 0 10px;
+    transition: 0.6s;
+}
+
+.icons span {
+    color: #fff;
+}
+
+.icons button:hover {
+    background-color: orange;
+    border-color: orange;
+}
+
+.left-1 p {
+    padding: 16px 0px 26px 0px;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    margin: 0px;
+    word-spacing: 2px;
+}
+
+.left-1 button {
+    padding: 11px 16px;
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    display: inline-block;
+    border: solid 1px #b0bdc8;
+    background: rgba(64, 93, 118, 0.8);
+}
+
+.left-1 button:hover {
+    background-color: #ff9000;
+    transition: all 0.3s;
+}
+
+.header {
+    text-align: center;
+    margin: 100px 80px;
+}
+
+.header h1 {
+    font-size: 56px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.header p {
+    color: #979797;
+}
+
+.line {
+    border: solid 1px #ff9408;
+    height: 0px;
+    width: 300px;
+    margin: auto;
+}
+
+
+
+
+.mid ul {
+    list-style: none;
+}
+
+.mid ul li {
+    margin: 0px -2px;
+    display: inline-block;
+}
+
+.mid ul li a {
+    padding: 14px 40px 13px 40px;
+    font-size: 18px;
+    color: #989898;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: solid 1px #d5d5d5;
+    display: block;
+}
+
+.first-text {
+    border: solid 1px #ff9408;
+    background: #ff9408;
+    color: white;
+}
+
+.mid ul li a:hover {
+    background: #ff9408;
+    color: white;
+    transition: all 0.3s;
+}
+
+.mid {
+    text-align: center;
+}
+
+.left-pics {
+    position: relative;
+    width: 43%;
+}
+
+.pics {
+    display: flex;
+    margin: 100px 170px 200px 170px;
+
+}
+
+.descp {
+    text-align: left;
+    width: 54%;
+}
+
+.on-pic {
+    position: absolute;
+    left: -36px;
+    top: 36px;
+
+}
+
+.descp h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+}
+
+.descp h3 span {
+    font-size: 14px;
+    color: #ff9000;
+    display: block;
+}
+
+.descp p {
+    color: #979797;
+}
+
+.blue {
+    color: #08c2ff;
+    font-size: 16px;
+}
+
+.sec3 {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Banner-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 900px;
+}
+
+.line2 {
+    border: solid 1px #ff9408;
+    height: 0px;
+    width: 300px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.header2 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.header2 h1 {
+    font-size: 56px;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    line-height: 60px;
+}
+
+.header2 p {
+    padding: 25px 0px 35px 0px;
+    font-size: 14px;
+    color: #d8dfe5;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 25px;
+    font-weight: 400;
+    padding: 10px 100px;
+}
+
+.boxes ul {
+    list-style: none;
+}
+
+.development {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Development-bg.jpg);
+    padding: 44px 0px 161px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.boxes ul li {
+    width: 250px;
+
+}
+
+.development a {
+    text-decoration: none;
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Development-cn.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: block;
+}
+
+.development a h4 {
+    padding: 138px 0px 0px 0px;
+    text-align: center;
+    color: #03a4df;
+}
+
+.boxes ul {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.design {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/desgin-bg.jpg);
+    padding: 44px 0px 161px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.design a h4 {
+    padding: 138px 0px 0px 0px;
+    text-align: center;
+    color: #ffab3f;
+}
+
+.design a {
+    text-decoration: none;
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/desgin-icn.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: block;
+}
+
+
+.concept {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/concept-bg.jpg);
+    padding: 44px 0px 161px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.concept a h4 {
+    padding: 138px 0px 0px 0px;
+    text-align: center;
+    color: #ae382d;
+}
+
+.concept a {
+    text-decoration: none;
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/concept-icn.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: block;
+}
+
+.system {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/systam-bg.jpg);
+    padding: 44px 0px 161px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.system a h4 {
+    padding: 138px 0px 0px 0px;
+    text-align: center;
+    color: #5e5f61;
+}
+
+.system a {
+    text-decoration: none;
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/systam-icn.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: block;
+}
+
+.text2 {
+    text-align: center;
+}
+
+.table {
+    padding: 75px 0px 0px 0px;
+    /* width: 100%; */
+    overflow: hidden;
+    text-align: initial;
+
+}
+
+.table ul li {
+
+    background: #fff;
+    text-align: center;
+    margin: 20px;
+}
+
+.table ul {
+    list-style: none;
+
+}
+
+.basic {
+    width: 55px;
+    float: left;
+    display: table;
+    
+    height: 103px;
+    background: #ff9408;
+}
+
+.basic h5 {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 17px;
+    color: #2d2d2d;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    rotate: -91deg;
+}
+
+.dollar {
+    padding: 22px 20px;
+    float: left;
+    background: #2d2d2d;
+    height: 60px;
+}
+
+.dollar h2 {
+    
+    color: #ff9408;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.band {
+    padding: 1px 30px;
+    width: 173px;
+    float: left;
+}
+
+.band p {
+    font-size: 16px;
+    color: #979797;
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 26px 0px 35px 0px;
+}
+
+.order {
+    width: 147px;
+    display: table;
+    height: 103px;
+}
+
+.order a {
+    font-size: 17px;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    display: table-cell;
+    vertical-align: middle;
+    background: #2d2d2d;
+}
+
+.update p {
+    font-size: 16px;
+    color: #979797;
+    margin: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.update {
+    padding: 1px 30px;
+    width: 173px;
+    float: left;
+    padding: 26px 0px 35px 0px;
+}
+
+.contact-text {
+    text-align: center;
+    padding: 100px;
+
+}
+
+.contact-side {
+
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Contact-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+
+.contact-text h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.contact-text p {
+    color: white;
+}
+
+.sec6 {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/Get-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.line2 {
+    border: solid 1px #ff9408;
+    height: 0px;
+    width: 300px;
+    margin: auto;
+}
+
+.left-last {
+    padding: 0;
+    margin: 0 0 25px 0;
+    width: 48%;
+    float: left;
+}
+
+.field {
+    padding: 18px 20px 17px 20px;
+    font-size: 14px;
+    color: #979797;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    border: 0px;
+    width: 30rem;
+    outline: none;
+}
+
+.middle-last {
+    margin: auto;
+    padding: 76px 0px 95px 0px;
+    max-width: 1100px;
+
+}
+
+.button {
+    padding: 16px 0px 17px 0px;
+    margin-top: -3px;
+    font-size: 14px;
+    color: #e9ecee;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    background: #e2850a;
+    border: 0px;
+    text-transform: uppercase;
+    width: 521px;
+    cursor: pointer;
+}
+
+.textarea {
+    padding: 18px 20px 17px 20px;
+    font-size: 14px;
+    color: #979797;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    border: 0px;
+    width: 30rem;
+    height: 156px;
+    resize: none;
+}
+
+.right-side {
+    width: 48%;
+    float: right;
+}
+
+.right-side h3 {
+    padding-bottom: 44px;
+    font-size: 46px;
+    color: #f88e04;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    margin: 0px;
+    line-height: 46px;
+}
+
+.right-side address {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/location-icn.png);
+    background-repeat: no-repeat;
+    background-position: left 4px;
+    padding: 0px 0px 27px 65px;
+    margin-left: 3px;
+    font-size: 14px;
+    color: #ebedf1;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.right-side .number {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/phone-icn.png);
+}
+
+.right-side .email1 {
+    background-image: url(https://templatemo.com/templates/templatemo_473_november/img/mail-icn.png);
+}
+
+.right-side ul {
+    list-style: none;
+    padding: 30px 0 0 3px;
+}
+
+.right-side li {
+    float: left;
+    margin: 0 22px 0 0;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.footer {
+    margin: auto;
+    padding: 30px 0;
+}
+
+.footer p {
+    padding: 0px;
+    font-size: 13px;
+    color: #a9abad;
+    font-family: 'Open Sans';
+    margin: 0px;
+
+}
